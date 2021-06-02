@@ -1,0 +1,8 @@
+
+{
+    "region" : "ap-south-1",
+    "profile" : "aws_dev_user_1",
+    "s3-bucket" : "hrmsapi",
+    "template"  : "serverless.template",
+    "stack-name" : "hrmsapi"
+}
